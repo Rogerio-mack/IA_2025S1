@@ -4,7 +4,7 @@
 
 # Inteligência Artificial - 1o Semestre 2025 (7G)
 
-rogerio.oliveira@mackenzie.br  
+rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Moodle/Canvas*.  
 
 <br>
 
