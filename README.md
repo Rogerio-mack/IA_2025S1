@@ -45,6 +45,8 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 
 > **EAD** Leitura [IA Generativa: Fundamentos, Usos e Riscos](https://github.com/Rogerio-mack/IA_2025S1/blob/main/IA%20Generativa%20v3.pdf), foque principalmente nos Riscos *Transversais* | Veja, também [aqui](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb) a seção **Aprendizado de Máquina: Um Novo Paradigma**.
 
-**2** [**Algoritmos de Busca, Search Algorithms**](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/Search_Algorithms.ipynb)
-> **EAD** Verifique o exercício de entrega no material de aula acima
+**2** [**Expert Systems, Rule‑Based Programming**](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/Rule_Based_Programming.ipynb) &
+[**Algoritmos de Busca, Search Algorithms**](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/Search_Algorithms.ipynb)
+
+> **EAD** Verifique o exercício de entrega nos materiais de aula acima
 
