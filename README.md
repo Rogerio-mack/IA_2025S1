@@ -50,3 +50,7 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 
 > **EAD** Verifique o exercício de entrega nos materiais de aula acima
 
+**3** [**Algoritmos Genéticos**](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/GeneticAlgorithms.ipynb)
+
+> **EAD** Verifique o exercício de entrega no material de aula acima
+
