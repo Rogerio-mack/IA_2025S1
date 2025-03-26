@@ -59,7 +59,7 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
  
 > **EAD** Dilema Viés-Variância e Conjuntos de Treinamento e Teste: [vídeo](http://meusite.mackenzie.br/rogerio/BIGvideos/overfitting_test_train_accuracy.mp4) | [notebook](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/Overfitting_Treinamento_e_Teste.ipynb)
 
-> *Aprendizado supervisionado; Tarefas de Classificação e Regressão;  Uso de estimadores de scikit-learn; Regressão Linear; Correlação; Coeficiente de Determinação ($R^2$); Acuracidade; Dilema Viés-Variância: sub e sobreajuste (overfitting); Conjuntos de Treinamento; Conjunto de Teste.*
+> *Aprendizado supervisionado; Tarefas de Classificação e Regressão;  Uso de estimadores de scikit-learn; Regressão Linear; Correlação; Coeficiente de Determinação (R2); Acuracidade; Dilema Viés-Variância: sub e sobreajuste (overfitting); Conjuntos de Treinamento; Conjunto de Teste.*
 
 **5** [**Classificação: Knn**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb) | [**Árvores de Decisão e Seleção de Atributos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
 
