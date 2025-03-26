@@ -63,4 +63,6 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 
 **5** [**Classificação: Knn**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb) | [**Árvores de Decisão e Seleção de Atributos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
 
-> **EAD** *aguarde* 
+> **EAD** *aguarde*
+
+> Métricas de classificação: precisão, revocação, F1; funções distância; preparação dos dados: normalização e encode; Modelos: Knn, Árvores de Decisão, Random Forest e outros; Seleção de Atributos (Features): Entropia e Ganho de Informação.*
