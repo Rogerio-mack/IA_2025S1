@@ -54,3 +54,11 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 
 > **EAD** Verifique o exercício de entrega no material de aula acima
 
+**4** [**Aprendizado Supervisionado e Regressão Linear**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
+| [**Classificação (Regressão Logística)**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML3_RegressaoLogistica.ipynb) | [`breast_cancer example`](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/scikit_learn_breast_cancer.ipynb)
+ 
+> **EAD** Dilema Viés-Variância e Conjuntos de Treinamento e Teste: [vídeo](http://meusite.mackenzie.br/rogerio/BIGvideos/overfitting_test_train_accuracy.mp4) | [notebook](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/Overfitting_Treinamento_e_Teste.ipynb)
+
+**5** [**Classificação: Knn**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb) | [**Árvores de Decisão e Seleção de Atributos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
+
+> **EAD** *aguarde* 
