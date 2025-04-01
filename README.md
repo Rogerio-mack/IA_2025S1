@@ -45,12 +45,18 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 
 > **EAD** Leitura [IA Generativa: Fundamentos, Usos e Riscos](https://github.com/Rogerio-mack/IA_2025S1/blob/main/IA%20Generativa%20v3.pdf), foque principalmente nos Riscos *Transversais* | Veja, também [aqui](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb) a seção **Aprendizado de Máquina: Um Novo Paradigma**.
 
+> *IA Fraca e IA Forte; Diferenças IA Clássica x ML x Data Science x IA Generativa; Tipos de Aprendizado; Fatores recentes que impulsionaram o uso da IA; Riscos da IA (quais?); O que são e quais são os Riscos Transversais.* 
+
 **2** [**Expert Systems, Rule‑Based Programming**](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/Rule_Based_Programming.ipynb) &
 [**Algoritmos de Busca, Search Algorithms**](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/Search_Algorithms.ipynb)
 
 > **EAD** Verifique o exercício de entrega nos materiais de aula acima
 
+> *Sistemas Especialistas; Regras de Produção; Aplicações; Inferência direta (para frente) e reversa; Principais Algoritmos de Busca; DFS, BFS; Busca Informada e Heurísticas; Busca Gulosa, Dijkstra e A-Star; Aplicações* 
+
 **3** [**Algoritmos Genéticos**](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/GeneticAlgorithms.ipynb)
+
+> Algoritmos genéticos; Fluxo dos algoritmos genéticos; representação das soluções por genes; funções de aptidão e seleção; crossover; mutação; tipos de problemas e aplicações*
 
 > **EAD** Verifique o exercício de entrega no material de aula acima
 
@@ -63,6 +69,6 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 
 **5** [**Classificação: Knn**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML4_Knn.ipynb) | [**Árvores de Decisão e Seleção de Atributos**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML5_DecisionTrees.ipynb)
 
-> **EAD** *aguarde*
+> **EAD** [Tarefa: Proposta de Projeto](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/A4_Propostas_de_Projeto.ipynb)
 
 > *Métricas de classificação: precisão, revocação, F1; funções distância; preparação dos dados: normalização e encode; Modelos: Knn, Árvores de Decisão, Random Forest e outros; Seleção de Atributos (Features): Entropia e Ganho de Informação.*
