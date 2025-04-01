@@ -56,7 +56,7 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 
 **3** [**Algoritmos Genéticos**](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/GeneticAlgorithms.ipynb)
 
-> Algoritmos genéticos; Fluxo dos algoritmos genéticos; representação das soluções por genes; funções de aptidão e seleção; crossover; mutação; tipos de problemas e aplicações*
+> *Algoritmos genéticos; Fluxo dos algoritmos genéticos; representação das soluções por genes; funções de aptidão e seleção; crossover; mutação; tipos de problemas e aplicações*
 
 > **EAD** Verifique o exercício de entrega no material de aula acima
 
