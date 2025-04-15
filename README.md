@@ -77,7 +77,7 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 **6** [**Introdução aos Modelos Neurais I**](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb) |
 [**Introdução aos Modelos Neurais II**](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T2.ipynb) 
 
-> **EAD** [MLP scikit-learn (Penguins)](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/Ex_mlp_penguins.ipynb)
+> **EAD** [Exercício: MLP scikit-learn (Penguins)](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/Ex_mlp_penguins.ipynb)
 <!-- [Solução](https://github.com/Rogerio-mack/IA_solucao/blob/main/mlp_penguins_solucao.ipynb) -->
 
 > *História; Neurônio perceptron; Funções de Ativação; XOR problem; Aprendizado e Algoritmo de Retropropagação; Parâmetros e Hiperparâmetros; Conjunto de Teste e de Validação; Redes MLP; MLPClassifier; Curva de Aprendizado.*
