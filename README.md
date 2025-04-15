@@ -72,4 +72,14 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 
 > **EAD** [Tarefa: Proposta de Projeto](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/A4_Propostas_de_Projeto.ipynb)
 
-> *Métricas de classificação: acuracidade, matriz de confusão, TP e TN; funções distância: propriedades e aplicações; preparação dos dados: normalização e encode; Modelos: Knn, Árvores de Decisão; Ramo terminal; Entropia e Ganho de Informação; Seleção de melhores atributos preditores.*
+> *Métricas de classificação: acuracidade, matriz de confusão, TP e TN; funções distância: propriedades e aplicações; preparação dos dados: normalização e encode; Modelos: Knn, Árvores de Decisão; Ramo terminal; Entropia e Ganho de Informação; Seleção de melhores atributos preditores.* ***Outras métricas de classificação: Precisão, Recall, F1; Métricas de Regressão: MSE, RMSE, MAPE etc.***.
+
+**6** [**Introdução aos Modelos Neurais I**](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T1.ipynb) |
+[**Introdução aos Modelos Neurais II**](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T2.ipynb) 
+
+> **EAD** [MLP scikit-learn (Penguins)](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/Ex_mlp_penguins.ipynb)
+<!-- [Solução](https://github.com/Rogerio-mack/IA_solucao/blob/main/mlp_penguins_solucao.ipynb) -->
+
+> *História; Neurônio perceptron; Funções de Ativação; XOR problem; Aprendizado e Algoritmo de Retropropagação; Parâmetros e Hiperparâmetros; Conjunto de Teste e de Validação; Redes MLP; MLPClassifier; Curva de Aprendizado.*
+
+
