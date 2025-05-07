@@ -86,3 +86,18 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 > **EAD** [Entenda aqui a curva de aprendizado](https://www.linkedin.com/pulse/understanding-learning-curves-analyzing-model-training-sachin-58mgc) | [Dive into Deep Learning](https://d2l.ai/) | *Mais atividades na sequência*
 
 > *Deep Learning; TensorFlow, Keras, PyTorch: Automatic Gradiente; GPU; Grafos de Execução; Outros modelos de redes; Fluxo simples com Keras; Ajuste de Hiperparâmetros;*
+
+**8** [**Classificação de Imagens com o Keras TensorFlow, MNIST**](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/AI_TF_MNIST_Classifier.ipynb)
+
+* [**Classificação de Imagens com o Keras TensorFlow, Flowers**](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/AI_TF_ImageClassifier.ipynb) |
+  [Versão alternativa](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/AI_TF_ImageClassifier_SparseCategorical.ipynb)
+* [**Classificação de Imagens com VGG16, Flowers**](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/AI_TF_ImageClassifier_VGG16.ipynb)
+
+> **EAD** [Entenda aqui o uso do Keras Tuner]((https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T8.ipynb))  
+
+> * [Tarefa I: Image Classification Keras](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/B1_image_classification_keras.ipynb)
+> * [Tarefa II: Image Classification Fine-Tunning](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/B2_image_classification_pretrain.ipynb)
+
+> *Convolutional Nets; dropout; pooling; Cross Entropy; Keras Tuner; Modelos pré-treinados; Transfer Learning; Fine-Tunning; Data Augmentation.*
+
+
