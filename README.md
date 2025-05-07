@@ -93,7 +93,7 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
   [Versão alternativa](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/AI_TF_ImageClassifier_SparseCategorical.ipynb)
 * [**Classificação de Imagens com VGG16, Flowers**](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/AI_TF_ImageClassifier_VGG16.ipynb)
 
-> **EAD** [Entenda aqui o uso do Keras Tuner]((https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T8.ipynb))  
+> **EAD** [Entenda aqui o uso do Keras Tuner](https://colab.research.google.com/github/Rogerio-mack/Deep-Learning-I/blob/main/T8.ipynb)  
 
 > * [Tarefa I: Image Classification Keras](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/B1_image_classification_keras.ipynb)
 > * [Tarefa II: Image Classification Fine-Tunning](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/B2_image_classification_pretrain.ipynb)
