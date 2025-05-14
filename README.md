@@ -100,4 +100,25 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 
 > *Convolutional Nets; dropout; pooling; Cross Entropy; Keras Tuner; Modelos pré-treinados; Transfer Learning; Fine-Tunning; Data Augmentation.*
 
+**9** (14.05) [**Object Detection (Yolo5, ResNet)**](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/Yolov5_Resnet50_object_detection.ipynb)
+
+> [**Yolo11, e outras tarefas de visão computacional**](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/Yolo11_Detection_Image_Video_Pose.ipynb)
+
+> **EAD** *Pesquise: O que é o OpenCV?* Trabalhe nas Tarefas I e II... já tem aqui bastante coisa.
+
+> *Qual a diferença entre o modelo Yolo, modelos como RestNet/VGG16 e OpenCV? Qual o paralelo do que você aprendeu aqui com modelos de imagem com os grandes modelos de linguagem (ChatGPT/DeepSeek)? Outros modelos de redes neurais e modelos recorrentes.*
+
+**10** (21.05) **Modelos Generativos e Grandes Modelos de Linguagem**
+
+> **EAD** Revisão, dúvidas...
+
+> *O que são os grandes modelos de linguagem? O que é o processamento de linguagem natural? Representação vetorial da linguagem (TF-IDF) e Embeddings; Modelos de Linguagem e Agentes; O que não vimos?*
+
+**11** (28.05) **Avaliação, N2**
+
+> **Entrega dos projetos (sem apresentação): 01.06**
+
+**12** (04.05) **Notas, feedback, dúvidas para SUB e PF**
+
+> **Trabalho para SUB | PF**: Implemente uma solução simples de *Detecção de Expressão Facial* em fotos empregando alguma biblioteca de sua escolha. Algo simples como sorriso ou olhos fechados (tenha em mente, por exemplo, as demostrações oficiais do Yolo11). Empregue ao menos 6 fotos para testes. Documente o seu notebook explicando a sua solução. Ao final, sugira e justifique uma aplicação real de soluções como essa. (+2.0 pontos na PF ou SUB)
 
