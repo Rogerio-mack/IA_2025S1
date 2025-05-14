@@ -118,7 +118,7 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 
 > **Entrega dos projetos (sem apresentação): 01.06**
 
-**12** (04.05) **Notas, feedback, dúvidas para SUB e PF**
+**12** (04.06) **Notas, feedback, dúvidas para SUB e PF**
 
 > **Trabalho para SUB | PF**: Implemente uma solução simples de *Detecção de Expressão Facial* em fotos empregando alguma biblioteca de sua escolha. Algo simples como sorriso ou olhos fechados (tenha em mente, por exemplo, as demostrações oficiais do Yolo11). Empregue ao menos 6 fotos para testes. Documente o seu notebook explicando a sua solução. Ao final, sugira e justifique uma aplicação real de soluções como essa. (+2.0 pontos na PF ou SUB)
 
