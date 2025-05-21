@@ -111,6 +111,7 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 **10** (21.05) **Modelos Generativos e Grandes Modelos de Linguagem**
 
 > [Huggingface, Llama fine tuning, Agentes de IA](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/IA_HuggingFace_e_Agentes.ipynb)
+
 > **EAD** [Capítulo 6: Chabots Inteligentes na Saúde: Implementações com Modelos Abertos e Dados Próprios](https://github.com/Rogerio-mack/IA_2025S1/blob/main/Capitulo_6_LLM.pdf)
 
 > *O que são os grandes modelos de linguagem? O que é o processamento de linguagem natural? Representação vetorial da linguagem (TF-IDF) e Embeddings; Tokeninzação; LLMs x Agentes de IA; Huggingface; Llama fine tuning x contexto; LangChain; LoRA e QLoRA; Regularização.*
