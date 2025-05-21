@@ -106,7 +106,7 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 
 > **EAD** *Pesquise: O que é o OpenCV?* Trabalhe nas Tarefas I e II... já tem aqui bastante coisa.
 
-> *Qual a diferença entre o modelo Yolo, modelos como RestNet/VGG16 e OpenCV? Qual o paralelo do que você aprendeu aqui com modelos de imagem com os grandes modelos de linguagem (ChatGPT/DeepSeek)? Outros modelos de redes neurais e modelos recorrentes.*
+> *Qual a diferença entre o modelo Yolo, modelos como RestNet/VGG16 e OpenCV? Qual o paralelo do que você aprendeu aqui com modelos de imagem com os grandes modelos de linguagem (ChatGPT/DeepSeek)?*
 
 **10** (21.05) **Modelos Generativos e Grandes Modelos de Linguagem**
 
