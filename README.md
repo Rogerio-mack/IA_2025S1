@@ -110,13 +110,15 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 
 **10** (21.05) **Modelos Generativos e Grandes Modelos de Linguagem**
 
+> [Representação da Linguagem Natural](https://github.com/Rogerio-mack/IA_2025S1/blob/main/IMT_TFIDF_word2vec.pdf)
+
 > [Huggingface, Llama fine tuning, Agentes de IA](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/IA_HuggingFace_e_Agentes.ipynb)
 
 > **EAD** [Capítulo 6: Chabots Inteligentes na Saúde: Implementações com Modelos Abertos e Dados Próprios](https://github.com/Rogerio-mack/IA_2025S1/blob/main/Capitulo_6_LLM.pdf)
 
 > *O que são os grandes modelos de linguagem? O que é o processamento de linguagem natural? Representação vetorial da linguagem (TF-IDF) e Embeddings; Tokeninzação; LLMs x Agentes de IA; Huggingface; Llama fine tuning x contexto; LangChain; LoRA e QLoRA; Regularização.*
 
-> ***O que não vimos?** Aprendizado por reforço; Outros tipos de agentes de IA; Técnicas de Processamento de Linguagem Natural (NLP); Planejamento (no contexto de IA); etc.*
+> ***O que não vimos?** Redes Recorrentes como [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/); [Auto-encoders, GANs e outros modelos generativos](https://github.com/Rogerio-mack/Arte_Generativa); Aprendizado por reforço; Outros tipos de agentes de IA; Técnicas de Processamento de Linguagem Natural (NLP); Planejamento (no contexto de IA); etc.*
 
 > [Template .ipynb Projeto](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/Projeto_semestral_template.ipynb)
  
