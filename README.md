@@ -18,7 +18,7 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 * **09.04** Avaliação A1
 >> Acesse [aqui](https://github.com/Rogerio-mack/IA_2025S1/tree/main/N1) o detalhamento das notas e feedback das atividades. **Atenção especial para o feedback dos projetos**.
 * **28.05** Avaliação A2
-* **TBD.05** Entrega e Apresentação dos Projetos
+* **01.06** Entrega e Apresentação dos Projetos, no Moodle/AVA
 * **11.06** PSUB
 * **18.06** PF
 
