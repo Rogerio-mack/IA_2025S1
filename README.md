@@ -117,6 +117,8 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 > *O que são os grandes modelos de linguagem? O que é o processamento de linguagem natural? Representação vetorial da linguagem (TF-IDF) e Embeddings; Tokeninzação; LLMs x Agentes de IA; Huggingface; Llama fine tuning x contexto; LangChain; LoRA e QLoRA; Regularização.*
 
 > ***O que não vimos?** Aprendizado por reforço; Outros tipos de agentes de IA; Técnicas de Processamento de Linguagem Natural (NLP); Planejamento (no contexto de IA); etc.*
+
+> [Template .ipynb Projeto](https://colab.research.google.com/github/Rogerio-mack/IA_2025S1/blob/main/Projeto_semestral_template.ipynb)
  
 **11** (28.05) **Avaliação, N2**
 
