@@ -22,6 +22,9 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 * **11.06** PSUB
 * **18.06** PF
 
+##### Consulte aqui os Gabaritos da N2, e a planilha de Notas até a N2: [aqui](https://github.com/Rogerio-mack/IA_2025S1/tree/main/gabaritos_N2)
+Na planilha você encontra também o *feedback* das atividades (no caso de atividades em grupo, eventualmente o feedback está somente na linha de um dos alunos do grupo).
+
 >> [templates SBC para o artigo do Projeto](https://www.sbc.org.br/documentosinstitucionais/#publicacoes) 
 
 >> Exemplos de Projetos GitHub: [Exemplo 1](https://github.com/saic-fi/Bayesian-Prompt-Learning/tree/main) | [Exemplo 2](https://github.com/jcampolim/iniciacao-tecnologica) | [Exemplo 3](https://github.com/open-vlf)
