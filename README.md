@@ -53,7 +53,7 @@ Fine-Tunnig.
 Implementações com Modelos Abertos e Dados Próprios
 LLMs, Fine-Tunnig, Tokens etc. Agentes inteligentes 
 
-Serão 8 questões teste e duas dissertativas.
+Serão 8 questões teste e duas dissertativas. Não esquecer a entrega do trabalho da Sub/PF até 11.06 (Moodle).
 
 <br>
 <br>
