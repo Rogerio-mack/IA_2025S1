@@ -28,6 +28,36 @@ Na planilha você encontra também o *feedback* das atividades (no caso de ativi
 <br>
 <br>
 
+#### Conteúdos para Sub e PF:
+
+1. Algoritmos Genéticos (função de fitness, crossover, mutação etc.)
+e Algoritmos de Busca (diferenças entre os diversos algoritmos)
+
+2. Métricas: Precisão, Recall, Acuracidade; Sobre e Subajuste.
+Regularização.
+
+3. Introdução aos Modelos Neurais.
+Neurônio perceptron; Funções de Ativação; XOR problem; 
+Aprendizado e Algoritmo de Retropropagação; 
+Parâmetros e Hiperparâmetros; Conjunto de Teste e de Validação; 
+Redes MLP; MLPClassifier; Curva de Aprendizado.
+
+3.1. Cálculo o número elementos de uma MLP
+
+3.2. Análise de um código de um modelo Keras, para imagem e não imagens. 
+Fine-Tunnig.
+
+4. Representação da Linguagem Natural. TF-IDF, distância cosseno.
+
+5. Capítulo 6: Chabots Inteligentes na Saúde: 
+Implementações com Modelos Abertos e Dados Próprios
+LLMs, Fine-Tunnig, Tokens etc. Agentes inteligentes 
+
+Serão 8 questões teste e duas dissertativas.
+
+<br>
+<br>
+
 >> [templates SBC para o artigo do Projeto](https://www.sbc.org.br/documentosinstitucionais/#publicacoes) 
 
 >> Exemplos de Projetos GitHub: [Exemplo 1](https://github.com/saic-fi/Bayesian-Prompt-Learning/tree/main) | [Exemplo 2](https://github.com/jcampolim/iniciacao-tecnologica) | [Exemplo 3](https://github.com/open-vlf)
