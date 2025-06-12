@@ -22,8 +22,10 @@ rogerio.oliveira@mackenzie.br, *para msgs relativas à disciplina envie via Mood
 * **11.06** PSUB
 * **18.06** PF
 
-##### Consulte aqui os Gabaritos da N2, e a planilha de Notas até a N2: [aqui](https://github.com/Rogerio-mack/IA_2025S1/tree/main/gabaritos_N2)
+#### Consulte aqui os Gabaritos da N2, e a planilha de Notas até a N2: [aqui](https://github.com/Rogerio-mack/IA_2025S1/tree/main/gabaritos_N2)
 Na planilha você encontra também o *feedback* das atividades (no caso de atividades em grupo, eventualmente o feedback está somente na linha de um dos alunos do grupo).
+
+#### Consulte aqui o Gabarito da SUB: [aqui](https://github.com/Rogerio-mack/IA_2025S1/blob/main/SUB_gabarito.docx) *(é um .docx, faça download)
 
 <br>
 <br>
